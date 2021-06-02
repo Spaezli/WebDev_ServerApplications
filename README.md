@@ -1,2 +1,4 @@
 # WebDev_ServerApplications
-asdf
++ Java Servlets
++ RESTfull web service
++ 
